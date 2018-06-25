@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Kiryl Misachenka](https://up.htmlacademy.ru/htmlcss/21/user/504279).
-* Наставник: `Неизвестно`.
+* Студент: [Svitlana]
+* Наставник: `Selfemployment`.
 
 ---
 
